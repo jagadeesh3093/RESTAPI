@@ -1,5 +1,16 @@
-# RestAPI
-# myrestapi
-# myrestapi
-# Rest-API
-# RESTAPI
+
+![apiresponse](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/ea87a4f6-02c8-433a-a190-cd657b4355a3)
+![service_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/995bf4c3-3c10-4dcd-a450-4e5a1d6be43b)
+![service_imply_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/d1650c58-68d4-46e3-9f26-0747205b540e)
+![resourcenotfound](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/9858ea9a-1de6-4fc6-ba87-6bf623ad538e)
+![repository_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/79781090-f174-41d5-b6c7-7db58b93dbb7)
+![postman_update](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/2494c283-5bcd-48bc-81b9-59f98a7b446b)
+![postman_insert](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/96ed51da-284a-422f-9ab1-45b33366745f)
+![postman_getbyid](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/7143cf0f-047c-41a3-9db4-d58fe06570bb)
+![postman_getall](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/de10bde5-19e1-405e-9d05-be137cd26d22)
+![postman_delete](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/dc3902eb-92cd-4648-9ce2-300c679342ed)
+![payload_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/60290d21-1873-4684-afd8-49692f3db7b5)
+![model_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/f5c14541-98cb-4571-8409-9c7e458613dc)
+![main_java](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/9dd0803e-e6e5-456f-b99b-976bc4eb9d6a)
+![controller](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/5c900074-93b2-4505-b4b2-88b4406dc729)
+![application_properties](https://github.com/jagadeesh3093/RESTAPI/assets/127486215/d72efffd-a0a2-4b73-a342-241481119aa1)
